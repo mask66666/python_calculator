@@ -1,1 +1,2 @@
-# python_calculator
+this project was made for fun
+also im new
